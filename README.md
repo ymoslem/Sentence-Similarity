@@ -1,1 +1,3 @@
-# Edit-Distance
+# Sentence-Similarity
+
+Investigating diverse similarity approaches.
