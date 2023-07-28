@@ -7,3 +7,4 @@ Investigating diverse similarity approaches.
 * Semantic Semilarity
   * Multilingual Semantic Semilarity
   * Paraphrase Mining
+* Multilingual Semantic Search
