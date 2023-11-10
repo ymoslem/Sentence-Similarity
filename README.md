@@ -1,6 +1,6 @@
 # Sentence-Similarity
 
-Investigating diverse similarity approaches.
+Investigating diverse similarity approaches:
 
 * Edit Distance
 * Jaccard Distance
@@ -8,3 +8,4 @@ Investigating diverse similarity approaches.
   * Multilingual Semantic Semilarity
   * Paraphrase Mining
 * Multilingual Semantic Search
+* Fuzzy Term Search
